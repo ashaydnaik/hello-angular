@@ -1,7 +1,7 @@
 version: 0.1
 environment_variables:
     plaintext:
-        S3_BUCKET: "hello-world-adn.s3-website-ap-southeast-2.amazonaws.com"
+        S3_BUCKET: "hello-world-adn"
         BUILD_ENV: "prod"
 phases:
     install:
